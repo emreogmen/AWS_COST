@@ -1,4 +1,4 @@
-## Step-1: Configure AWS Access via CLI
+## Step-0: Configure AWS Access via CLI
 
 AWS_COST % aws configure
 
@@ -7,6 +7,14 @@ AWS Secret Access Key [****************p0WC]:<br>
 Default region name [None]:<br>
 Default output format [None]:<br>
 <br><br>
+
+## Step-1: Clone the Repository
+
+git clone https://github.com/emreogmen/AWS_COST.git <br>
+cd AWS_COST<br>
+
+<br><br>
+
 ## Step-2: Install the Required packages<br>
 pip install -r Requirements.txt<br>
 <br><br>
