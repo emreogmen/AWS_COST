@@ -1,6 +1,7 @@
 Step-1: Configure AWS Access via CLI
 
 AWS_COST % aws configure
+
 AWS Access Key ID [****************KIXO]:
 AWS Secret Access Key [****************p0WC]:
 Default region name [None]:
