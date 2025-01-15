@@ -46,3 +46,8 @@ if __name__ == "__main__":
     print(df)
     df.to_csv("nat_gateway_costs.csv", index=False)
 
+print()
+print("Reach out to Aviatrix to start benefiting from Nat Gateway Cost Savings as well as the enhanced visibility and security!") 
+print()
+print("www.aviatrix.com")
+print()
