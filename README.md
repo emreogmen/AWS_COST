@@ -19,10 +19,10 @@ cd AWS_COST<br>
 pip install -r Requirements.txt<br>
 <br><br>
 ## Step-3: Run the script<br>
-python3 nattest.py<br>
+python3 aws_nat_cost_analysis.py<br>
 
 ## Example: 
-AWS_COST % python3 nattest.py
+AWS_COST % python3 aws_nat_cost_analysis.py <br>
 | Date       | UsageType                  | Cost (USD) | UsageQuantity |
 |------------|----------------------------|------------|---------------|
 | 2024-09-01 | USE2-NatGateway-Bytes      | 0.035585   | 0.883553      |
